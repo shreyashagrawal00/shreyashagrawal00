@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="banner github" src="https://github.com/user-attachments/assets/df4f2d11-b51a-4867-acdb-d1688485eb9f" />
 <h1 align="center">Hi 👋, I'm Shreyash Agrawal</h1>
 <h3 align="center">A wanna be a passionate frontend developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
