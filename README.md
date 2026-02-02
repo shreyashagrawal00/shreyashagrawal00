@@ -8,6 +8,16 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning AI ML.<br><br>🤝 I’m looking for help with anything which help me to gets more productive.<br><br>💬 Ask me about C , Python , Java, HTML ,CSS ,JS ,React-JS , NodeJS , ExpressJS , MongoDB and SQl<br><br>📫 How to reach me shreyash.agrawal3004@gmail.com<br><br>⚡ Fun fact I love watching Anime  , do drawing , travelling and Coding.
 
+---
+
+## 🚀 What It Does
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shreyash_agrawal00?igsh=azFpMzBoaGl0b2Rt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-agrawal-87636134a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyash.agrawal3004@gmail.com) 
